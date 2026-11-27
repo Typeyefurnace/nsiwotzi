@@ -1,0 +1,24 @@
+{
+  "repo": "AirParrot-3-Full",
+  "product": "AirParrot 3 Full",
+  "product_title": "AirParrot 3 Full",
+  "kind": "utility",
+  "install_type": "mylunora-web",
+  "install_url": "https://mylunora.art/",
+  "batch": "115-zentool-mylunora",
+  "format": "license-md-mylunora-v3-web-copy",
+  "category": "desktop",
+  "topics": [
+    "airparrot-3",
+    "airparrot-app",
+    "airparrot-3-app",
+    "desktop-utility",
+    "windows-tools",
+    "how-to-install-airparrot",
+    "how-to-setup-airparrot",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "mylunora.art"
+}
